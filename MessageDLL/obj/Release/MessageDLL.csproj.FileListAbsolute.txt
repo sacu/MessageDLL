@@ -1,0 +1,6 @@
+D:\workspace\c#\MessageDLL\MessageDLL\bin\Release\MessageDLL.dll
+D:\workspace\c#\MessageDLL\MessageDLL\bin\Release\MessageDLL.pdb
+D:\workspace\c#\MessageDLL\MessageDLL\bin\Release\UnityEngine.dll
+D:\workspace\c#\MessageDLL\MessageDLL\obj\Release\MessageDLL.dll
+D:\workspace\c#\MessageDLL\MessageDLL\obj\Release\MessageDLL.pdb
+D:\workspace\c#\MessageDLL\MessageDLL\obj\Release\MessageDLL.csprojResolveAssemblyReference.cache
